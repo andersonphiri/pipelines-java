@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/phirianderson23/java-pipelines/_apis/build/status/andersonphiri.pipelines-java?branchName=azure-pipelines)](https://dev.azure.com/phirianderson23/java-pipelines/_build/latest?definitionId=1&branchName=azure-pipelines)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
